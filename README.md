@@ -1,6 +1,6 @@
 # Hi there, I'm hossein 🙂
 <p align="center" style="width:80%;">
-  <img src="https://raw.githubusercontent.com/hossein-heydari79/hossein-heydari79/main/drow.gif" alt="animated" width="80" />
+  <img src="https://raw.githubusercontent.com/hossein-heydari79/hossein-heydari79/main/drow.gif" alt="animated" width="80%" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=hossein-heydari79&show_icons=true&include_all_commits=true&theme=material-palenight)
