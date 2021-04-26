@@ -13,7 +13,7 @@
 ![react](https://img.icons8.com/officel/64/000000/react.png)
 ![sass](https://img.icons8.com/color/64/000000/sass.png) -->
 
-
 ## How to reach me
 <a href="https://t.me/hossein_heydari79" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
+<a href="mailto:hosseinheydari790228@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="32"/></a>
 <a href="https://www.linkedin.com/in/hossein-heydari-7085931b8" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
