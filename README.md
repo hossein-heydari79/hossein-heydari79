@@ -4,10 +4,16 @@
 </p>
 
 ## My stats
-![Top Langs](https://github-readme-stats.vercel.app/api?username=hossein-heydari79&show_icons=true&include_all_commits=true&theme=material-palenight)
-![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-heydari79&layout=compact&theme=material-palenight&langs_count=12)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=hossein-heydari79&show_icons=true&include_all_commits=true&theme=monokai)
+![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-heydari79&layout=compact&theme=monokai&langs_count=12) -->
 
-<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hossein-heydari79&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-heydari79&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-heydari79&layout=compact&theme=monokai&langs_count=12"/>
+</p>
+
+<!--
 ## What i Know
 ![javascript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
 ![react](https://img.icons8.com/officel/64/000000/react.png)
