@@ -5,15 +5,15 @@
 
 ## What I Know
 
-<p align="center">
-<img src="./images/html5-2.svg" width="32"/>
-<img src="./images/css-124-624920.png" width="32"/>
-<img src="./images/bootstrap-4.svg" width="32"/>
-<img src="./images/sass-1.svg" width="32"/>
-<img src="./images/jquery-2.svg" width="32"/>
-<img src="./images/logo-javascript.svg" width="32"/>
-<img src="./images/typescript.svg" width="32"/>
-<img src="./images/react-2.svg" width="32"/>
+<p>
+<img src="./images/html5-2.svg" width="50"/>
+<img src="./images/css-124-624920.png" width="50"/>
+<img src="./images/bootstrap-4.svg" width="50"/>
+<img src="./images/sass-1.svg" width="50"/>
+<img src="./images/jquery-2.svg" width="50"/>
+<img src="./images/logo-javascript.svg" width="50"/>
+<img src="./images/typescript.svg" width="50"/>
+<img src="./images/react-2.svg" width="50"/>
 </p>
 
 
