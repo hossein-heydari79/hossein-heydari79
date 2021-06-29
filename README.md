@@ -4,6 +4,7 @@
 </p>
 
 ## What I Know
+<img src="./images/html5-2.svg" style="width:100px ; height: 100px " />
 
 
 ## My Stats
