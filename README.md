@@ -4,15 +4,6 @@
 </p>
 
 ## What I Know
-<p>-html</p>
-<p>-css</p>
-<p>-bootstrap</p>
-<p>-sass</p>
-<p>-jQuery</p>
-<p>-javascript</p>
-<p>-typescript</p>
-<p>-react-js</p>
-<p>-react-ts</p>
 
 
 ## My Stats
