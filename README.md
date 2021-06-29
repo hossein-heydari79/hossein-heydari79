@@ -4,10 +4,9 @@
 </p>
 
 ## What I Know
-### html - css - bootstrap - sass - jQuery - javascript - typescript - react_js - react_ts
-
-
-
+####
+#### html - css - bootstrap - sass - jQuery - javascript - typescript - react_js - react_ts
+####
 
 
 
