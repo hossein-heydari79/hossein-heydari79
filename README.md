@@ -4,9 +4,9 @@
 </p>
 
 ## What I Know
-<p style="font-wight:bold">html</p>-<p>css</p>
+html - css - bootstrap - sass - jQuery - javascript - typescript - react_js - react_ts
 
-<!-- - bootstrap - sass - jQuery - javascript - typescript - react_js - react_ts -->
+
 
 
 
