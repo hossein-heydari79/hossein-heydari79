@@ -4,7 +4,15 @@
 </p>
 
 ## What I Know
-<img src="./images/html5-2.svg" style="width:100px ; height: 100px " />
+html - css - bootstrap - sass - jQuery - javascript - typescript - react_js - react_ts
+
+
+
+
+
+
+
+
 
 
 ## My Stats
