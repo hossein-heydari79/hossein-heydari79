@@ -6,10 +6,10 @@
 ## What I Know
 
 <p>
-<img src="./images/html5-2.svg" width="35"/>
-<img src="./images/css-124-624920.png" width="50"/>
+<img src="./images/html5-2.svg" width="40"/>
+<img src="./images/css-124-624920.png" width="55"/>
 <img src="./images/bootstrap-4.svg" width="50"/>
-<img src="./images/sass-1.svg" width="60"/>
+<img src="./images/sass-1.svg" width="70"/>
 <img src="./images/jquery-2.svg" width="80"/>
 <img src="./images/logo-javascript.svg" width="50"/>
 <img src="./images/typescript.svg" width="50"/>
