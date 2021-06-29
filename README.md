@@ -6,7 +6,7 @@
 ## What I Know
 
 <p>
-<img src="./images/html5-2.svg" width="45"/>
+<img src="./images/html5-2.svg" width="35"/>
 <img src="./images/css-124-624920.png" width="50"/>
 <img src="./images/bootstrap-4.svg" width="50"/>
 <img src="./images/sass-1.svg" width="50"/>
