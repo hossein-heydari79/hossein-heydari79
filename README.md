@@ -41,7 +41,7 @@
 
 
 ## My Resume 
-Check out my full resume [here](https://github.com/hossein-heydari79/hossein-heydari79/raw/main/HosseinHeydari-Resume.pdf)
+Check out my full resume [here](https://github.com/hossein-heydari79/hossein-heydari79/raw/main/HosseinHeydari-Resume.pdf).
 
 ## How To Reach Me
 <a href="https://t.me/hossein_heydari79" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
