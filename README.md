@@ -1,6 +1,6 @@
 # Hi there, I'm hossein 😉
 <p align="center" style="width:80%;">
-  <img src="./images/source.gif" alt="animated" width="60%" />
+  <img src="./images/source.gif" alt="animated" width="50%" />
 </p>
 
 ## What I Know
