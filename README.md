@@ -1,6 +1,6 @@
 # Hi there, I'm hossein 😉
 <p align="center" style="width:80%;">
-  <img src="./images/benefits-of-react.gif" alt="animated" width="80%" />
+  <img src="./images/source.gif" alt="animated" width="60%" />
 </p>
 
 ## What I Know
