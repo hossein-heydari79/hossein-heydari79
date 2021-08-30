@@ -1,6 +1,6 @@
 # Hi there, I'm hossein 😉
 <p align="center" style="width:80%;">
-  <img src="https://raw.githubusercontent.com/hossein-heydari79/hossein-heydari79/main/drow.gif" alt="animated" width="80%" />
+  <img src="./images/source.gif" alt="animated" width="80%" />
 </p>
 
 ## What I Know
