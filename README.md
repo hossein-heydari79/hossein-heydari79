@@ -14,7 +14,7 @@
 <img src="./images/logo-javascript.svg" width="50"/>
 <img src="./images/typescript.svg" width="50"/>
 <img src="./images/react-2.svg" width="50"/>
-<img src="./images/nextjs.png" width="100"/>
+<img src="./images/nextjs.png" width="90"/>
 <img src="./images/redux-seeklogo.com.svg" width="50"/>
 </p>
 
