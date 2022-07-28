@@ -1,28 +1,4 @@
 # Hi there, I'm hossein 😉
-<p align="center" style="width:80%;">
-  <img src="./images/source.gif" alt="animated" width="50%" />
-</p>
-
-## What I Know
-
-<p>
-<img src="./images/html5-2.svg" width="40"/>
-<img src="./images/css-124-624920.png" width="55"/>
-<img src="./images/bootstrap-4.svg" width="50"/>
-<img src="./images/sass-1.svg" width="70"/>
-<img src="./images/jquery-2.svg" width="80"/>
-<img src="./images/logo-javascript.svg" width="50"/>
-<img src="./images/typescript.svg" width="50"/>
-<img src="./images/react-2.svg" width="50"/>
-<img src="./images/nextjs.png" width="90"/>
-<img src="./images/redux-seeklogo.com.svg" width="50"/>
-</p>
-
-
-
-
-
-
 
 ## My Stats
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=hossein-heydari79&show_icons=true&include_all_commits=true&theme=monokai)
